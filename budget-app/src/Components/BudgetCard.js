@@ -65,3 +65,4 @@ function getProgressBarVariant(amount, max) {
   if (ratio < 0.75) return "warning"
   return "danger"
 }
+
